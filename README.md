@@ -6,8 +6,8 @@ I'm a JAVA Developer with hands-on designing, developing, and implementing  appl
 and solutions using various technologies and programming languages.
 
 <h2> TOP PROJECTS </h2>
-Fashion Blog API
-Activity Tracker
+- Fashion Blog API
+- Activity Tracker
 
 ## 🚀 About Me
 
