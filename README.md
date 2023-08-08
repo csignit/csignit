@@ -22,12 +22,12 @@ and solutions using various technologies and programming languages.
 - Tools and Technologies: [IntelliJ, Git, GitHub].
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&hide_title=true)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=csignit&show_icons=true&hide=issues&hide_title=true)](https://github.com/csignit)
 )
 
 ## 📊 Profile Visitors
 
-![Profile Visitors](https://profile-counter.glitch.me/yourusername/count.svg)
+![Profile Visitors](https://profile-counter.glitch.me/csignit/count.svg)
 
 ## 📫 How to Reach Me
 
