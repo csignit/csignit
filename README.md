@@ -6,13 +6,15 @@ I'm a JAVA Developer with hands-on designing, developing, and implementing  appl
 and solutions using various technologies and programming languages.
 
 <h2> TOP PROJECTS </h2>
+- GoCash App
 - Fashion Blog API
 - Activity Tracker
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Bank App API.
-- 🌱 I’m currently learning Dockers.
+- 💵 I'm working on a GoCash app for managing financial transactions
+  
 - 💬 Ask me about [topics you are knowledgeable about].
 
 ## 🛠️ Skills
