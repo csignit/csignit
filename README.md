@@ -19,8 +19,8 @@ and solutions using various technologies and programming languages.
 
 ## 🛠️ Skills
 
-- Programming Languages: Java, JavaScript, HTML, CSS.
-- Frameworks and Libraries: Spring FrameWork [Spring Boot, Spring MVC, Spring Data, Spring Security], JIRA, Hibernate,  and JSON, JUnit, Mockito.
+- Programming Languages: Java, JavaScript, React, HTML, CSS.
+- Frameworks and Libraries: Spring Framework [Spring Boot, Spring MVC, Spring Data, Spring Security], JIRA, Hibernate,  JSON, JUnit, Mockito.
 - Tools and Technologies: [IntelliJ, Git, GitHub].
 ## 📈 GitHub Stats
 
